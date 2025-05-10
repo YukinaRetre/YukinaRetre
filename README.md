@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# About me
+アプリの個人開発を目指して、いろいろなことを勉強中です。  
+I am lerning technical skills for my app development.
 <!--
 **YukinaRetre/YukinaRetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
